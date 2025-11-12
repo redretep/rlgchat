@@ -6,7 +6,7 @@ date_default_timezone_set('UTC');
 // 1. Get a GIPHY API Key: https://developers.giphy.com/dashboard/
 // 2. Paste your (Production) Key here.
 // 3. If you leave this empty, GIF search will be disabled.
-$GIPHY_API_KEY = 'ezgYlfEhe9rhRvCbwgf0EdnyC8QbtLzW'; // <-- PASTE GIPHY API KEY HERE
+$GIPHY_API_KEY = ''; // <-- PASTE GIPHY API KEY HERE
 // --- END CONFIG ---
 
 
