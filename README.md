@@ -1,5 +1,5 @@
 ### RLGChat
-simple php chat with
+simple german php chat with
 - video, image, file sending 
 - custom (animated) stickers (via giphy api)
 - username and profile picture support
